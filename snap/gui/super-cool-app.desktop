@@ -2,7 +2,7 @@
 Name=Example Flutter Snap
 Comment=Example Flutter application for Snapcraft
 Icon=${SNAP}/meta/gui/icon.png
-Exec=my-flutter-app %U
+Exec=go-sleep %U
 Terminal=false
 Type=Application
 Categories=Games;
